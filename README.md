@@ -1,3 +1,4 @@
+![](https://api.kai-to.pro/assets/images/interface.jpg)
 ## Features
 - Powerful
 - Detects pinned pieces
@@ -22,3 +23,6 @@ Notes:
 - [2] Scroll to line 225
 - [3] Change the "IMAGES" path with the chessengine folder path on your computer
 ![](https://api.kai-to.pro/assets/images/fix.jpg)
+
+## Credits 
+- [Flare](https://github.com/3are)
