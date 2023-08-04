@@ -26,5 +26,5 @@ Notes:
 
 ## Credits 
 - [Flare](https://github.com/3are)
-**Discord**
+- **Discord**
 [![Discord](https://discord.c99.nl/widget/theme-1/1056301362041868440.png)](https://discord.com/users/1056301362041868440)
