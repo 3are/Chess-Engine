@@ -26,3 +26,4 @@ Notes:
 
 ## Credits 
 - [Flare](https://github.com/3are)
+- ![discord](https://discord.c99.nl/widget/theme-1/1056301362041868440.png)
